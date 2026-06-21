@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-🌐 Demo: https://cyberlensesecure.netlify.app/check
+🌐 Demo:https://cyberlensesecure.netlify.app/check
 
 📂 GitHub Repository:
 https://github.com/Zeroes-X-Ones/cyberlensai

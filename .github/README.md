@@ -1047,7 +1047,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <p  align="center">
   <i>© <a href="https://aliciasykes.com">Alicia Sykes</a> 2026</i><br>
   <i>Licensed under <a href="https://gist.github.com/Lissy93/143d2ee01ccc5c052a17">MIT</a></i><br>
-  <a href="https://github.com/lissy93"><img src="https://pixelflare.cc/alicia/images/octoface.webp?w=64" /></a><br>
+  <a href="https://github.com/Zeroes-X-Ones/CyberLens-AI"><img src="https://pixelflare.cc/alicia/images/octoface.webp?w=64" /></a><br>
   <sup>Thanks for visiting :)</sup>
 </p>
 

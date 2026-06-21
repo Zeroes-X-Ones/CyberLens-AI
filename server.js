@@ -52,7 +52,7 @@ const limits = [
 const makeLimiterResponseMsg = (retryAfter) => {
   const why =
     'This keeps the service running smoothly for everyone. ' +
-    'You can get around these limits by running your own instance of Web Check.';
+    'You can get around these limits by running your own instance of CyberLens AI.';
   return `You've been rate-limited, please try again in ${retryAfter} seconds.\n${why}`;
 };
 

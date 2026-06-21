@@ -186,8 +186,8 @@ const Home = (): JSX.Element => {
       <UserInputMain onSubmit={formSubmitEvent}>
         <a href="/">
           <Heading as="h1" size="xLarge" align="center" color={colors.primary}>
-            <img width="64" src="/web-check.png" alt="Web Check Icon" />
-            Web Check
+            <img width="64" src="/web-check.png" alt="CyberLens AI Icon" />
+            CyberLens AI
           </Heading>
         </a>
         <Input
@@ -210,7 +210,7 @@ const Home = (): JSX.Element => {
       </UserInputMain>
       <SponsorCard>
         <Heading as="h2" size="small" color={colors.primary}>
-          Enjoying Web Check?
+          Enjoying CyberLens AI?
         </Heading>
         <p>
           It's free, open source, and funded by the community. If it's been useful, you can keep it

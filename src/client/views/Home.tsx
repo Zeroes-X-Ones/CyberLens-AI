@@ -243,7 +243,7 @@ const Home = (): JSX.Element => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/lissy93/web-check"
+            href="https://github.com/Zeroes-X-Ones/CyberLens-AI"
             title="Check out the source code and documentation on GitHub, and get support or contribute"
           >
             <Button>View on GitHub</Button>
